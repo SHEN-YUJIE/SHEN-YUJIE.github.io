@@ -14,4 +14,3 @@ This website presents my research, life, academic activities, and contact inform
 我是南京大学政治学系硕士学位候选人。
 我的研究兴趣包括：比较政治学、国家建构、中国政治、当代与历史视角下的政治经济学、计量历史、社会科学方法论、中华民国政治制度演变以及政商关系等。
 本网站展示我的研究、生活、学术活动及联系方式。
-

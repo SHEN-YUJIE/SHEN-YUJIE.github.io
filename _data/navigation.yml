@@ -12,20 +12,19 @@ main:
     url: /publications/
 
   - title: "Participation in Research Projects"
-    url:     
+    url:/participation in Research Projects/
 
   - title: "Academic activities "
-    url:   
+    url:/academic activities/
     
   - title: "Public Services"
-    url:
+    url:/public Services/
         
   - title: "Contact"
-    url: 
+    url:/contact/
     
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
+
     

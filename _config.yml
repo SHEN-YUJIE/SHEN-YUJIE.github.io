@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yujie Shen"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Yujie Shen"
+description              : &description "Master degree candidate in Political Science,Nanjing University"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://shen-yujie.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SHEN-YUJIE/SHEN-YUJIE.github.io"
@@ -26,22 +26,20 @@ author:
   avatar           : "profile.png"
   name             : "Yujie Shen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master degree candidate in Political Science,Nanjing University"
   location         : "Nanjing，PRC"
   employer         : "Nanjing University"
-  uri              : https://shen-yujie.github.io
-  email            : "syjacademic@gmail.com" 
-
-  # Academic websites
+  uri              : "https://shen-yujie.github.io"
+  email            : "syjacademic@gmail.com/502024060019@smail.nju.edu.cn"  # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-1435-7724"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL

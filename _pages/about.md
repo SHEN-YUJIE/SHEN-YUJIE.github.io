@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Master degree candidate in Political Science at Nanjing University.
+My research interests include Comparative Politics, State-building,  Chinese Politics:the Party-State system of the PRC, Political Economy from contemporary and historical perspectives, Quantitative History, Social Science Methodology, the Evolution of the ROC’s Institutions, and Government-business Relations.
+This website presents my research, publications, academic activities, and contact information.
+我是南京大学政治学系硕士学位候选人。
+我的研究兴趣包括：比较政治学、国家建构、中国政治、当代与历史视角下的政治经济学、计量历史、社会科学方法论、中华民国政治制度演变以及政商关系等。
+本网站展示我的研究、生活、学术活动及联系方式。
 
 A data-driven personal website
 ======

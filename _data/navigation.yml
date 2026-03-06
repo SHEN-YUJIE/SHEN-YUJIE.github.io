@@ -6,15 +6,15 @@
 main:
 
 
-  - title: "Publications"
+- title: "Publications"
     url: /publications/  
 
-  - title: "Academic activities"
+- title: "Academic activities"
     url: /academic activities/  
   
-  - title: "CV"
+- title: "CV"
     url: /cv/  
 
 
-   - title: "Contact"
+- title: "Contact"
     url: /contact/   

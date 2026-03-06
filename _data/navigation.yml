@@ -5,5 +5,11 @@
 
 main:
 
-  - title: "Contact"
-    url: /contact/    
+
+  - title: "Publications"
+    url: /publications/  
+
+
+
+   - title: "Contact"
+    url: /contact/   
